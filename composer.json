@@ -1,0 +1,20 @@
+{
+    "name": "nandorodpires/hello-world",
+    "description":"Just hello world message",
+    "type":"library",
+    "license":"GPL-3.0-or-later",
+    "authors":[
+      {
+        "name":"Fernando Rodrigues",
+        "email": "nandorodpires@gmail.com"
+      }
+    ],
+    "autoload":{
+      "psr-4":{
+        "WilliamCosta\\SecureShell\\": "src/"
+      }
+    },
+    "require":{
+      "php": ">=7.0"
+    }
+  }
