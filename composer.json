@@ -11,7 +11,7 @@
     ],
     "autoload":{
       "psr-4":{
-        "WilliamCosta\\SecureShell\\": "src/"
+        "Nandorodpires\\HelloWorld\\": "src/"
       }
     },
     "require":{
