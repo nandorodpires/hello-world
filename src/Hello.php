@@ -1,6 +1,6 @@
 <?php
 
-namespace Nandorodpires\HelloWorld;
+namespace nandorodpires\helloworld;
 
 class Hello {
 
